@@ -1,0 +1,31 @@
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\MapviewMonoSound.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\MapviewMonoSound.pdb
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\Assembly-CSharp.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\UnityEngine.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\Assembly-CSharp-firstpass.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\KSPTrackIR.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\UnityEngine.UI.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\KSPAssets.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\Mono.Cecil.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\TDx.TDxInput.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\Mono.Security.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\bin\Debug\UnityEngine.xml
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\obj\Debug\MapviewMonoSound.csproj.CoreCompileInputs.cache
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\obj\Debug\MapviewMonoSound.dll
+B:\Visual Studio\MapviewMonoSound\MapviewMonoSound\obj\Debug\MapviewMonoSound.pdb
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\MapviewMonoSound.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\MapviewMonoSound.pdb
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\Assembly-CSharp.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\UnityEngine.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\Assembly-CSharp-firstpass.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\KSPTrackIR.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\UnityEngine.UI.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\KSPAssets.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\Mono.Cecil.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\TDx.TDxInput.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\Mono.Security.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\bin\Debug\UnityEngine.xml
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\obj\Debug\MapviewMonoSound.csprojResolveAssemblyReference.cache
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\obj\Debug\MapviewMonoSound.csproj.CoreCompileInputs.cache
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\obj\Debug\MapviewMonoSound.dll
+B:\Visual Studio\MapviewMonoSound 1.0.1\MapviewMonoSound\obj\Debug\MapviewMonoSound.pdb
